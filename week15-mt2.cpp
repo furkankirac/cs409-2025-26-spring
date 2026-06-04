@@ -70,5 +70,5 @@ int main()
     std::cout << "\nQ4)\n";
     std::cout << "benchmark sanity = " << Vector<double>{1.0, 2.0, 3.0}.map(speed_sanity) << '\n';
     // Expected Q4 output:
-    // benchmark sanity = 2 6 12
+    // benchmark sanity = 1 4 9
 }
